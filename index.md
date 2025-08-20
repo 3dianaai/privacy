@@ -1,6 +1,6 @@
 
 # Privacy Policy & Terms of Use  
-**for the 3DianaAI Telegram Bot**  
+**3DianaAI Telegram Bot**  
 **Effective Date:** August 2025  
 **Version:** 1.2
 
@@ -48,9 +48,7 @@ Any violation of this policy will result in the **immediate and permanent revoca
 
 ## 4. Reporting Violations
 
-Users are encouraged to report violations of these Terms, including any content involving minors, illegal activities, or abusive behavior. Reports may be submitted confidentially through our official support portal:
-
-**https://linktr.ee/3dianaai**
+Users are encouraged to report violations of these Terms, including any content involving minors, illegal activities, or abusive behavior. Reports may be submitted confidentially. For contact options, please refer to the [Contact](#14-contact) section.
 
 We reserve the right to investigate and act upon such reports at our sole discretion.
 
@@ -173,6 +171,6 @@ Users are encouraged to review the most current version regularly.
 
 For data access requests, deletion inquiries, policy clarifications, or to report a violation, please contact us via:
 
-**https://linktr.ee/3dianaai**
+**Phone number:** +420 770 623 982
 
 All inquiries are handled confidentially and in accordance with applicable law.
